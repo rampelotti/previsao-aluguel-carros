@@ -43,9 +43,9 @@ Este projeto tem como objetivo ajudar uma empresa de aluguel de carros a otimiza
 5. **Os resultados e o conjunto de dados serão salvos em um arquivo Excel.**
 
 # Autores
-Gabriel Henrique Rampelotti - 172313028
-Giovana Machado Servelo - 172317630
-Arthur Stadnik - 172310171
-Arthur Kalinski - 172313582
-Felipe de Lima - 172311887
-Pedro Castro - 172412212
+- Gabriel Henrique Rampelotti - 172313028
+- Giovana Machado Servelo - 172317630
+- Arthur Stadnik - 172310171
+- Arthur Kalinski - 172313582
+- Felipe de Lima - 172311887
+- Pedro Castro - 172412212
